@@ -1,0 +1,524 @@
+[
+    {
+        "chunk_id": "airport_policy.txt_0",
+        "text": "AIRPORT TRAVEL POLICY",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_1",
+        "text": "1. Airport Transportation\n\nEmployees may use company-approved taxis, rideshare services, airport buses, trains, or personal vehicles for travel between an airport and an approved business location.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_2",
+        "text": "2. Parking\n\nAirport parking is reimbursable for approved business trips. Employees should select reasonable-cost parking and retain the parking receipt.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_3",
+        "text": "3. Checked Baggage\n\nOne standard checked bag is reimbursable when baggage is required for the business trip. Additional baggage requires manager approval unless required by the business purpose.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_4",
+        "text": "4. Lounge Access\n\nAirport lounge access is not normally reimbursable. Lounge access may be reimbursed when required because of a flight disruption or when specifically approved by a department head.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_5",
+        "text": "5. Ground Transportation Receipts\n\nReceipts or valid digital transaction records should be retained for airport transportation and parking claims.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_6",
+        "text": "6. Personal Travel\n\nAirport expenses related to personal travel, vacations, or personal trip extensions are not reimbursable.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "airport_policy.txt_7",
+        "text": "7. Flight Disruptions\n\nReasonable expenses caused by an airline cancellation or major delay may be reimbursed when the disruption affects an approved business trip and the employee provides supporting documentation.",
+        "metadata": {
+            "source": "airport_policy.txt",
+            "policy_type": "airport",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_0",
+        "text": "EXPENSE REIMBURSEMENT POLICY",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_1",
+        "text": "1. Submission Deadline\n\nEmployees should submit business travel expenses within 15 calendar days after returning from a trip.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_2",
+        "text": "2. Required Documentation\n\nExpense claims should include the date, amount, currency, business purpose, and appropriate receipt or digital proof of payment.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_3",
+        "text": "3. Currency Conversion\n\nExpenses incurred in a foreign currency should be converted using the exchange rate provided by the company's expense system. If the system does not provide a rate, the card statement exchange rate may be used.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_4",
+        "text": "4. Meals\n\nMeal expenses are reimbursable only when connected to an approved business trip or business meeting. Alcohol is not reimbursable.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_5",
+        "text": "5. Missing Receipts\n\nA missing receipt may be accepted when the employee provides a written explanation and obtains manager approval. Repeated missing receipts may be rejected by Finance.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_6",
+        "text": "6. Personal Expenses\n\nPersonal expenses must not be submitted for reimbursement. If a personal and business expense appear on the same transaction, only the business portion may be claimed.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_7",
+        "text": "7. Duplicate Claims\n\nEmployees must not submit the same expense more than once. Duplicate claims may be rejected and may be subject to additional review.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "expense_policy.txt_8",
+        "text": "8. Finance Review\n\nFinance may request additional documentation before approving or reimbursing an expense.",
+        "metadata": {
+            "source": "expense_policy.txt",
+            "policy_type": "expense",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_0",
+        "text": "COMPANY TRAVEL POLICY - INDIA",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_1",
+        "text": "1. Purpose\n\nThis policy defines approved business travel limits and reimbursement rules for employees traveling within India.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_2",
+        "text": "2. Air Travel\n\nEmployees at Manager level and above may book economy or premium economy for domestic flights longer than 2.5 hours. All other employees should book economy class.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_3",
+        "text": "3. Hotel Limits\n\nEmployees may claim hotel expenses up to INR 6,000 per night in Tier 1 cities and INR 4,000 per night in Tier 2 and Tier 3 cities. Taxes may be reimbursed when shown on the hotel invoice.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_4",
+        "text": "4. Meals\n\nEmployees may claim actual meal expenses up to INR 1,000 per day during approved business travel. Alcohol is not reimbursable.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_5",
+        "text": "5. Local Transportation\n\nActual taxi, metro, or public transportation expenses are reimbursable when supported by receipts or valid digital transaction records.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_6",
+        "text": "6. Advance Booking\n\nDomestic flights should normally be booked at least 7 days before departure unless business urgency requires otherwise.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_india.txt_7",
+        "text": "7. Exceptions\n\nAny exception to these limits requires approval from the employee's department head before the expense is incurred.",
+        "metadata": {
+            "source": "travel_policy_india.txt",
+            "policy_type": "travel",
+            "country": "India"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_0",
+        "text": "TRAVEL CANCELLATION POLICY",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_1",
+        "text": "1. Business Trip Cancellation\n\nEmployees should cancel flights and hotels as soon as a business trip is no longer required.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_2",
+        "text": "2. Refundable Bookings\n\nWhen practical, employees should select refundable or flexible bookings for trips with uncertain schedules.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_3",
+        "text": "3. Cancellation Fees\n\nReasonable cancellation fees for an approved business trip are reimbursable when the cancellation was caused by a business requirement or approved change.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_4",
+        "text": "4. Personal Cancellation\n\nCancellation fees caused by personal decisions are not reimbursable.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_5",
+        "text": "5. No-Show Charges\n\nNo-show charges may be reimbursed when the employee can demonstrate that a documented business emergency or company-directed change caused the missed reservation.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_6",
+        "text": "6. Travel Credits\n\nUnused airline or hotel credits resulting from a business cancellation should be retained for future approved business travel whenever possible.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_7",
+        "text": "7. Documentation\n\nEmployees should provide cancellation confirmations and any applicable fee details when submitting a cancellation-related expense.",
+        "metadata": {
+            "source": "cancellation_policy.txt",
+            "policy_type": "cancellation",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_0",
+        "text": "TRAVEL APPROVAL POLICY",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_1",
+        "text": "1. Prior Approval\n\nBusiness travel should receive approval before flights, hotels, or other significant travel arrangements are booked.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_2",
+        "text": "2. Standard Approval\n\nEmployees should obtain approval from their direct manager for domestic business travel.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_3",
+        "text": "3. International Travel\n\nInternational business travel requires direct manager approval and department head approval before booking.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_4",
+        "text": "4. Client Travel\n\nTravel primarily related to a client engagement should also be confirmed by the responsible client account manager.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_5",
+        "text": "5. Exceptions\n\nUrgent travel may be booked before normal approval when delaying the trip would materially affect business operations. The employee must obtain retrospective approval as soon as practical.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_6",
+        "text": "6. Policy Exceptions\n\nRequests that exceed travel or expense limits require approval from the appropriate department head. Finance may also be required to approve financial exceptions.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_7",
+        "text": "7. Documentation\n\nApproval evidence should be retained with the travel request or expense submission.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "approval_policy.txt_8",
+        "text": "8. Non-Compliance\n\nExpenses booked without required approval may be delayed, rejected, or escalated for review.",
+        "metadata": {
+            "source": "approval_policy.txt",
+            "policy_type": "approval",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_0",
+        "text": "EMPLOYEE TRAVEL ELIGIBILITY POLICY",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_1",
+        "text": "1. Eligible Employees\n\nFull-time employees and approved fixed-term employees may claim business travel expenses when traveling for an authorized company purpose.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_2",
+        "text": "2. Contractors\n\nContractors are eligible only when their contract explicitly permits travel reimbursement or when written approval has been provided by the responsible department.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_3",
+        "text": "3. Interns\n\nInterns may travel for business only with prior manager approval. Reimbursement is limited to economy transportation and policy-approved accommodation.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_4",
+        "text": "4. Business Purpose\n\nA trip must have a documented business purpose such as a client meeting, company event, training, site visit, or other approved business activity.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_5",
+        "text": "5. Personal Extensions\n\nEmployees may extend a business trip for personal reasons only after notifying their manager. Any additional personal cost is the employee's responsibility.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_6",
+        "text": "6. Remote Employees\n\nRemote employees may claim approved travel expenses when they are required to travel to a company office, client location, or approved business event.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "employee_eligibility.txt_7",
+        "text": "7. Ineligible Expenses\n\nExpenses for family members, personal entertainment, alcohol, personal shopping, and unapproved travel are not reimbursable.",
+        "metadata": {
+            "source": "employee_eligibility.txt",
+            "policy_type": "eligibility",
+            "country": "All"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_0",
+        "text": "COMPANY TRAVEL POLICY - UNITED STATES",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_1",
+        "text": "1. Purpose\n\nThis policy defines approved business travel limits and reimbursement rules for employees traveling within the United States.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_2",
+        "text": "2. Air Travel\n\nEmployees should book economy class for domestic flights. Premium economy may be booked when the continuous flight time exceeds 5 hours. Business class requires prior approval from a Vice President.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_3",
+        "text": "3. Hotel Limits\n\nEmployees may claim hotel expenses up to USD 250 per night in major metropolitan areas and USD 180 per night in other locations. Taxes and mandatory hotel fees may be reimbursed.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_4",
+        "text": "4. Meals\n\nEmployees may claim actual meal expenses up to USD 75 per day during approved business travel. Alcohol is not reimbursable.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_5",
+        "text": "5. Local Transportation\n\nReasonable taxi, rideshare, rental car, parking, toll, and public transportation expenses are reimbursable when supported by receipts.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_6",
+        "text": "6. Advance Booking\n\nDomestic flights should normally be booked at least 10 days before departure unless business urgency requires otherwise.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    },
+    {
+        "chunk_id": "travel_policy_us.txt_7",
+        "text": "7. Exceptions\n\nAny exception to these limits requires written approval from the department head and Finance.",
+        "metadata": {
+            "source": "travel_policy_us.txt",
+            "policy_type": "travel",
+            "country": "United States"
+        }
+    }
+]

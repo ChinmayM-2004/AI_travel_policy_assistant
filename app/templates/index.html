@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>AI Travel Policy Assistant</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+</head>
+
+
+<body>
+
+    <div class="app-shell">
+
+
+        <!-- SIDEBAR -->
+
+        <aside class="sidebar">
+
+            <div class="brand">
+
+                <div class="brand-icon">
+                    ✈
+                </div>
+
+                <div>
+                    <h1>TravelAI</h1>
+                    <span>Policy Assistant</span>
+                </div>
+
+            </div>
+
+
+            <div class="sidebar-section">
+
+                <p class="section-label">
+                    WORKSPACE
+                </p>
+
+
+                <button class="nav-item active">
+
+                    <span class="nav-icon">
+                        💬
+                    </span>
+
+                    <span>
+                        Assistant
+                    </span>
+
+                </button>
+
+
+                <button
+                    class="nav-item"
+                    id="clearSidebarButton"
+                >
+
+                    <span class="nav-icon">
+                        🗑
+                    </span>
+
+                    <span>
+                        Clear conversation
+                    </span>
+
+                </button>
+
+            </div>
+
+
+            <div class="sidebar-section">
+
+                <p class="section-label">
+                    POLICY
+                </p>
+
+
+                <div class="policy-card">
+
+                    <div class="policy-icon">
+                        📚
+                    </div>
+
+                    <div>
+
+                        <strong>
+                            Company Travel Policy
+                        </strong>
+
+                        <span>
+                            RAG knowledge base
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="policy-card">
+
+                    <div class="policy-icon">
+                        🛠
+                    </div>
+
+                    <div>
+
+                        <strong>
+                            Policy Tools
+                        </strong>
+
+                        <span>
+                            MCP enabled
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="sidebar-footer">
+
+                <div class="status-dot"></div>
+
+                <div>
+
+                    <strong>
+                        System Online
+                    </strong>
+
+                    <span>
+                        AI services ready
+                    </span>
+
+                </div>
+
+            </div>
+
+        </aside>
+
+
+
+        <!-- MAIN CONTENT -->
+
+        <main class="main">
+
+
+            <!-- TOP BAR -->
+
+            <header class="topbar">
+
+                <div>
+
+                    <span class="eyebrow">
+                        AI WORKSPACE
+                    </span>
+
+                    <h2>
+                        Travel Policy Assistant
+                    </h2>
+
+                </div>
+
+
+                <div class="topbar-status">
+
+                    <span class="online-dot"></span>
+
+                    <span>
+                        Connected
+                    </span>
+
+                </div>
+
+            </header>
+
+
+
+            <!-- CHAT AREA -->
+
+            <section class="chat-container">
+
+
+                <div
+                    id="history"
+                    class="chat-history"
+                >
+
+
+                    <!-- Welcome message -->
+
+                    <div class="welcome-card">
+
+                        <div class="welcome-icon">
+                            ✈️
+                        </div>
+
+                        <div>
+
+                            <h3>
+                                How can I help with your travel?
+                            </h3>
+
+                            <p>
+                                Ask me about travel eligibility,
+                                expenses, reimbursements, flights,
+                                hotels, airport trips, and company
+                                travel policies.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+
+                <!-- RESPONSE -->
+
+                <div
+                    id="response"
+                    class="response-status"
+                ></div>
+
+
+
+                <!-- INPUT AREA -->
+
+                <div class="composer">
+
+
+                    <div class="employee-context">
+
+                        <div class="employee-avatar">
+                            👤
+                        </div>
+
+                        <div>
+
+                            <label for="employeeId">
+                                Employee ID
+                            </label>
+
+                            <input
+                                type="text"
+                                id="employeeId"
+                                placeholder="EMP001"
+                            >
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="message-box">
+
+                        <textarea
+                            id="question"
+                            rows="1"
+                            placeholder="Ask about your travel policy..."
+                        ></textarea>
+
+
+                        <button
+                            id="askButton"
+                            class="send-button"
+                            title="Send message"
+                        >
+
+                            <span>
+                                ↑
+                            </span>
+
+                        </button>
+
+                    </div>
+
+
+                    <div class="composer-footer">
+
+                        <span>
+                            AI responses are based on company policy.
+                        </span>
+
+                        <span>
+                            Enter ↵ to send
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+            </section>
+
+
+
+            <!-- RIGHT INFO PANEL -->
+
+            <aside class="info-panel">
+
+
+                <div class="info-header">
+
+                    <span class="eyebrow">
+                        EMPLOYEE
+                    </span>
+
+                    <h3>
+                        Travel Profile
+                    </h3>
+
+                </div>
+
+
+                <div class="profile-card">
+
+                    <div class="large-avatar">
+                        👤
+                    </div>
+
+                    <div>
+
+                        <strong id="profileEmployee">
+                            Not selected
+                        </strong>
+
+                        <span>
+                            Employee
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="info-divider"></div>
+
+
+                <div class="info-block">
+
+                    <span class="info-label">
+                        POLICY SOURCES
+                    </span>
+
+                    <div class="source-row">
+
+                        <span class="source-icon">
+                            📄
+                        </span>
+
+                        <div>
+
+                            <strong>
+                                Company Policies
+                            </strong>
+
+                            <span>
+                                7 documents
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="source-row">
+
+                        <span class="source-icon">
+                            🔎
+                        </span>
+
+                        <div>
+
+                            <strong>
+                                Semantic Search
+                            </strong>
+
+                            <span>
+                                FAISS vector store
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="source-row">
+
+                        <span class="source-icon">
+                            🔧
+                        </span>
+
+                        <div>
+
+                            <strong>
+                                MCP Tools
+                            </strong>
+
+                            <span>
+                                3 tools available
+                            </span>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="info-divider"></div>
+
+
+                <div class="info-block">
+
+                    <span class="info-label">
+                        QUICK QUESTIONS
+                    </span>
+
+
+                    <button class="quick-question">
+                        Can I take an airport trip?
+                    </button>
+
+
+                    <button class="quick-question">
+                        What is my travel limit?
+                    </button>
+
+
+                    <button class="quick-question">
+                        How much can I claim?
+                    </button>
+
+                </div>
+
+
+            </aside>
+
+        </main>
+
+    </div>
+
+
+
+    <script
+        src="{{ url_for('static', filename='js/app.js') }}"
+    ></script>
+
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+[
+    {
+        "employee_id": "EMP001",
+        "country": "India",
+        "employee_type": "Full-Time",
+        "department": "Sales",
+        "eligibility_status": "Eligible"
+    },
+    {
+        "employee_id": "EMP002",
+        "country": "India",
+        "employee_type": "Contractor",
+        "department": "Finance",
+        "eligibility_status": "Not Eligible"
+    },
+    {
+        "employee_id": "EMP003",
+        "country": "United States",
+        "employee_type": "Full-Time",
+        "department": "Engineering",
+        "eligibility_status": "Eligible"
+    },
+    {
+        "employee_id": "EMP004",
+        "country": "United States",
+        "employee_type": "Intern",
+        "department": "Marketing",
+        "eligibility_status": "Eligible"
+    },
+    {
+        "employee_id": "EMP005",
+        "country": "India",
+        "employee_type": "Full-Time",
+        "department": "HR",
+        "eligibility_status": "Eligible"
+    }
+]

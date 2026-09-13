@@ -1,0 +1,37 @@
+[
+    {
+        "source": "airport_policy.txt",
+        "policy_type": "airport",
+        "country": "All"
+    },
+    {
+        "source": "expense_policy.txt",
+        "policy_type": "expense",
+        "country": "All"
+    },
+    {
+        "source": "travel_policy_india.txt",
+        "policy_type": "travel",
+        "country": "India"
+    },
+    {
+        "source": "cancellation_policy.txt",
+        "policy_type": "cancellation",
+        "country": "All"
+    },
+    {
+        "source": "approval_policy.txt",
+        "policy_type": "approval",
+        "country": "All"
+    },
+    {
+        "source": "employee_eligibility.txt",
+        "policy_type": "eligibility",
+        "country": "All"
+    },
+    {
+        "source": "travel_policy_us.txt",
+        "policy_type": "travel",
+        "country": "United States"
+    }
+]
