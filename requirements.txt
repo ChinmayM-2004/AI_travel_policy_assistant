@@ -1,0 +1,8 @@
+Flask
+google-genai
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+mcp
+
